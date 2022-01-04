@@ -31,15 +31,15 @@
         <ul class="list-group list-group-flush">
           <li class="list-group-item">
             <img src="{{ asset('img/software-icon-1.png') }}" width="25" height="25" alt="" class="mr-1">
-            Web Development
+            Software development
           </li>
           <li class="list-group-item">
-            <img src="{{ asset('img/email-1.png') }}" width="25" height="25" alt="" class="mr-1">
+            <img src="{{ asset('img/software-icon-1.png') }}" width="25" height="25" alt="" class="mr-1">
             Bulk SMS
           </li>
           <li class="list-group-item">
-            <img src="{{ asset('img/email-1.png') }}" width="25" height="25" alt="" class="mr-1">
-            IT Hardware Sales
+            <img src="{{ asset('img/software-icon-1.png') }}" width="25" height="25" alt="" class="mr-1">
+            Enterprise IT setup
           </li>
         </ul>
 
